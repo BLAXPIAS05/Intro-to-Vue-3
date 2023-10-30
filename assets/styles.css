@@ -5,6 +5,10 @@ body {
   color: #282828;
 }
 
+.border {
+  margin: 32px
+}
+
 .button {
   margin: 30px;
   background-color: #39495c;
